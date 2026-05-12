@@ -1,4 +1,4 @@
-# LAB DS102
+# LAB2 DS102
 ## 📌 Giới thiệu
 Bài lab này sử dụng dataset MNIST để thực hiện các thuật toán học máy như Logistic Regression và Softmax Regression.
 
